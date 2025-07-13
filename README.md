@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### I'm Yihune Zewdie 💻 🇪🇹.
-I'm software engineering student at Addis Ababa science and technology university.
+I'm Software Engineer | Odoo Developer.
+
 <!--
 **yihune21/yihune21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
